@@ -8,6 +8,6 @@
 <li>The game continues as the player clicks never before clicked images.</li>
 <li>Click the same image twice and you lose the game!</li>
 <li style="color:MediumSeaGreen;">The game will automatically reset when the player loses a game.</li>
-<li style="font-size:50px;"></li>
+<li style="font-size:50px;">Best of Luck!</li>
 </ol>
 
