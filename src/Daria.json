@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Daria",
+      "image": "http://cimg.tvgcdn.net/i/r/2016/07/28/f43d851d-c151-48b2-9c76-007cbb06eb91/crop/740x554+0+0/thumbnail/350x262/849ac4a19ca4009fdd662e3ae0272cd5/daria-hplg.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Jane",
+        "image": "https://thoughtcatalog.files.wordpress.com/2013/02/jane-main.jpg?w=584&h=434"
+  
+      },
+    
+      {
+        "id": 4,
+        "name": "Quinn",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2014-01/campaign_images/webdr02/27/17/17-times-quinn-morgendorffer-was-the-smartest-per-1-19573-1390860075-27_big.jpg"
+  
+      },
+      {
+        "id": 5 ,
+        "name": "Brittany",
+        "image": "https://vignette.wikia.nocookie.net/daria/images/e/e9/Brittany3.gif/revision/latest?cb=20090706225927"
+  
+      },
+      {
+        "id": 6,
+        "name": "Tiffany",
+        "image": "http://images4.wikia.nocookie.net/degrassi/images/b/b5/Daria_tiffany.jpg"
+  
+      },
+      {
+        "id": 7,
+        "name": "Sandi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg4NzEyODQ1N15BMl5BanBnXkFtZTgwNjYzMjY2MjE@._V1_.jpg"
+  
+      },
+      {
+        "id": 8,
+        "name": "Stacy",
+        "image": "https://thoughtcatalog.files.wordpress.com/2013/02/daria-stacey.jpg?resize=661,504&quality=95&strip=all&crop=1"
+  
+      },
+
+      {
+        "id": 9,
+        "name": "Helen",
+        "image": "https://78.media.tumblr.com/4f95aea79c29bf663fd3304fef7850c7/tumblr_inline_p7gqq863m71swfz2z_500.jpg"
+  
+      }
+    ]
