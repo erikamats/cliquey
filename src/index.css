@@ -1,30 +1,83 @@
-body {
+body{
   margin: 0;
   padding: 0;
   font-family: sans-serif;
   background-image: url("https://st3.depositphotos.com/5999306/12805/v/950/depositphotos_128054302-stock-illustration-retro-80s-or-90s-fashion.jpg");
 }
+
 .jumbotron{
   font-family: 'Just Me Again Down Here', cursive;
   margin: 30px;
-  background-color: rgba(244, 236, 159, 0.974);
+  /* background-color: rgba(244, 236, 159, 0.974); */
   border-radius: 5px;
   box-shadow: 0 5px 6px rgba(247, 2242, 184,0.81), 0 5px 6px #999;
-  text-align: center
+  text-align: center;
+  -webkit-animation-name: example;
+  /* -webkit-animation-duration: 60s; */
+  animation-name: example;
+  animation: example 45s infinite;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
 }
+
+
+@-webkit-keyframes example {
+  0% 
+  { background-color: rgba(244, 236, 159, 0.974);}
+  25%    {background-color: rgba(247, 114, 114, 0.974);}
+  50%  {background-color:  rgba(49, 49, 211, 0.974);}
+  100% {background-color: rgba(72, 179, 72, 0.974);}
+}
+@keyframes example {
+  0% 
+  { background-color: rgba(244, 236, 159, 0.974);}
+  25%    {background-color: rgba(247, 114, 114, 0.974);}
+  50%  {background-color:  rgba(49, 49, 211, 0.974);}
+  100% {background-color: rgba(72, 179, 72, 0.974);}
+}
+
+
 h1{
   font-size: 100px;
   color:rgb(73,166,175);
-  line-height: .8em
+  line-height: .8em;
+  margin-top: 20px;
+
 }
 
 h2{
-  font-size: 50px;
+  font-size: 40px;
   font-family: 'Nanum Pen Script', cursive;
   background-color: black;
-  color:white
+  color:white;
+  margin-top: 50px;
+  margin-bottom: 30px;
 }
 
+h3{
+  font-size: 40px;
+  font-family: 'Nanum Pen Script', cursive;
+  background-color: black;
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.jumbo-container{
+  padding: 20px;
+  justify-content: space-around;
+}
+
+.header{
+  background-color: white;
+  font-size: 100px;
+  color:black;
+  line-height: .8em;
+}
 
 
 /* Text Color : rgb(73,166,175) */

@@ -2,10 +2,12 @@
   width: 100%;
   text-align: center;
   font-family: 'Just Me Again Down Here', cursive;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   font-size: 60px;
-  color:rgb(73,166,175);
+  color: black;
+  margin-top: 30px;
+ 
   margin-bottom: 50px;
-  background-color: black;
+  background-color: white;
   /* color:white */
 }

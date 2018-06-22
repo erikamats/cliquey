@@ -11,6 +11,13 @@
         "image": "https://thoughtcatalog.files.wordpress.com/2013/02/jane-main.jpg?w=584&h=434"
   
       },
+      {
+
+        "id": 3,
+        "name": "Mack",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-06/18/12/enhanced/webdr13/enhanced-11048-1434644926-11.jpg?downsize=715:*&output-format=auto&output-quality=autos"
+      },
+
     
       {
         "id": 4,
@@ -48,5 +55,22 @@
         "name": "Helen",
         "image": "https://78.media.tumblr.com/4f95aea79c29bf663fd3304fef7850c7/tumblr_inline_p7gqq863m71swfz2z_500.jpg"
   
+      },
+      {
+        "id": 10,
+        "name": "Jodie",
+        "image": "https://vignette.wikia.nocookie.net/characters/images/9/9d/Jodie_Landon.png/revision/latest?cb=20170823021250"
+  
+      },
+      {
+        "id":11 ,
+        "name":"Trent" ,
+        "image": "https://data.whicdn.com/images/114913388/original.png"
+      },
+      {
+        "id": 12 ,
+        "name": "Kevin",
+        "image": "https://massmediaverse.files.wordpress.com/2012/03/daria_eps106_thisyearsmodel-640x3601.jpg"
+
       }
     ]
