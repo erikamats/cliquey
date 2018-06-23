@@ -1,4 +1,4 @@
-<h1> Welcome to Daria's Clique-y Game</h1>
+<h1> Welcome to Daria's Cliquey Game</h1>
 
 <h3><strong>How to Play</strong></h3>
 
