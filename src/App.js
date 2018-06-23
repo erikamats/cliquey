@@ -29,6 +29,7 @@ class App extends Component {
         clicked: [],
         alert: "You Win!"
       });
+      
       this.showAlert();
     } else {
       //  if clicked and matches id in array then reset score, no points
@@ -41,10 +42,8 @@ class App extends Component {
 
   showAlert = () => {
     setTimeout(() => {
-      this.setState({
-        alert: ""
-      });
-    }, 4000);
+      this.setState({ alert: ""});
+     }, 4000);
   };
 
   
@@ -56,8 +55,8 @@ class App extends Component {
       <Wrapper>
         <Title>
           <div className="score"><h3>score: {this.state.clicked.length} </h3></div>
-          
           {this.state.alert && <Title>{this.state.alert}</Title>}
+
         </Title>
 
         {randomCast.map(({ id, name, image }) => (
