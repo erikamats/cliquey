@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import CastCard from "./components/CastCard";
+import Card from "./components/Card";
 import cast from "./Daria.json";
 // import "./App.css";
 
@@ -50,7 +50,7 @@ class App extends Component {
   render() {
     // (3)randomize order - randomize cards 
     const randomCast = cast.sort(() => 0.9 - Math.random());
-    // Map over this.state.cast and render a CastCard component for each cast member object
+    // Map over this.state.cast and render CARD component for each cast member object
     return (
       <Wrapper>
         <Title>
@@ -60,7 +60,7 @@ class App extends Component {
         </Title>
 
         {randomCast.map(({ id, name, image }) => (
-          <CastCard
+          <Card
             cardClick={this.cardClick}
             id={id}
             name={name}
