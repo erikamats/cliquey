@@ -5,7 +5,7 @@
   margin: 1em;
   position: relative;
   width: 205px;
-  box-shadow: 0 5px 6px #999, 0 5px 6px #999;
+  box-shadow: 0 2px 10px rgba(214, 214, 214, 0.54), 0 3px 10px rgba(214, 214, 214, 0.74);
   text-align: right;
 }
 

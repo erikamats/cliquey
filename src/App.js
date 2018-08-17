@@ -53,7 +53,17 @@ class App extends Component {
     // Map over this.state.cast and render CARD component for each cast member object
     return (
       <Wrapper>
+      
         <Title>
+        <div class="jumbotron jumbotron-fluid">
+    <div class="jumbo-container">
+      <h1 class="header">daria cliquey game</h1>
+      <p class="lead">
+        <h2>It's SIMPLE, click an image to accumulate a point for every correct answer. Click the same image twice and you lose the game! Good Luck!</h2>
+      </p>
+    </div>
+  </div>
+
           <div className="score"><h3>score: {this.state.clicked.length} </h3></div>
           {this.state.alert && <Title>{this.state.alert}</Title>}
 

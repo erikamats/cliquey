@@ -9,7 +9,9 @@ body{
   margin: 30px;
   /* background-color: rgba(244, 236, 159, 0.974); */
   border-radius: 5px;
-  box-shadow: 0 5px 6px rgba(247, 2242, 184,0.81), 0 5px 6px #999;
+  box-shadow: 0 5px 20px black, 0 5px 20px #999;
+
+
   text-align: center;
   -webkit-animation-name: example;
   /* -webkit-animation-duration: 60s; */
@@ -72,11 +74,15 @@ h3{
 }
 
 .header{
-  background-color: white;
+  background-color: black;
   font-size: 100px;
-  color:black;
+  text-shadow: 2px 10px 70px #000000;
+  color: white;
   line-height: 1em;
 }
 
+.wrapper{
+  border: 8px solid black;
+}
 
 /* Text Color : rgb(73,166,175) */
