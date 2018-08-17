@@ -1,4 +1,6 @@
 <h1> Welcome to Daria's Cliquey Game</h1>
+This assignment was built with React, learning statefullness!
+
 
 <h3><strong>How to Play</strong></h3>
 
@@ -11,3 +13,10 @@ NOT</strong></u> to click the same image twice!</em></li>
 <li style="color:MediumSeaGreen;">The game will automatically reset when the player loses a game.</li>
 <li style="font-size:50px;">Best of Luck!</li>
 </ol>
+
+
+## Author
+Erika Matsumoto
+
+## Links
+https://daria-game.now.sh/
