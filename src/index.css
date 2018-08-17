@@ -1,5 +1,5 @@
 body{
-  margin: 0;
+  margin: 5vh 5vw;
   padding: 0;
   font-family: sans-serif;
   background-image: url("https://st3.depositphotos.com/5999306/12805/v/950/depositphotos_128054302-stock-illustration-retro-80s-or-90s-fashion.jpg");
@@ -10,8 +10,6 @@ body{
   /* background-color: rgba(244, 236, 159, 0.974); */
   border-radius: 5px;
   box-shadow: 0 5px 20px black, 0 5px 20px #999;
-
-
   text-align: center;
   -webkit-animation-name: example;
   /* -webkit-animation-duration: 60s; */
@@ -83,6 +81,9 @@ h3{
 
 .wrapper{
   border: 8px solid black;
+
+  margin: 2vh 3vw auto; 
 }
+
 
 /* Text Color : rgb(73,166,175) */
